@@ -1,0 +1,32 @@
+{
+  "name": "echart",
+  "version": "1.0.0",
+  "description": "echart 学习",
+  "main": "index.js",
+  "dependencies": {
+    "echarts": "^5.0.0",
+    "rollup-plugin-uglify": "^6.0.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^11.0.1",
+    "rollup": "^2.35.1",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "webpack-cli": "^4.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leotony46/echart.git"
+  },
+  "keywords": [
+    "echart"
+  ],
+  "author": "leotony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leotony46/echart/issues"
+  },
+  "homepage": "https://github.com/leotony46/echart#readme"
+}
