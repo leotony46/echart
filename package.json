@@ -4,13 +4,15 @@
   "description": "echart 学习",
   "main": "index.js",
   "dependencies": {
-    "echarts": "^5.0.0",
-    "rollup-plugin-uglify": "^6.0.4"
+    "echarts": "^5.0.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.0.1",
+    "express": "^4.17.1",
     "rollup": "^2.35.1",
     "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-uglify": "^6.0.4",
+    "webpack": "^5.11.1",
     "webpack-cli": "^4.3.0"
   },
   "scripts": {

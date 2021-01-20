@@ -1,0 +1,6 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 8
+    },
+    "esversion": 6
+}
